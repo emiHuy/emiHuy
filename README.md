@@ -1,6 +1,6 @@
 ## Hi there, I'm Emily 👋
 
-🏫 Computer science student at Carleton University<br/>
+🏫 Computer science student<br/>
 📖 Eager to learn<br/>
 
 ## 🌐 Socials:
