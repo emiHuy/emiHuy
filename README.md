@@ -18,8 +18,3 @@
 ## 📫 Get in Touch / Contact Info:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/emily-huynh-tt8)
 [![email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:emilyhuynh06@gmail.com)
-
-## 🎉 Fun Facts:
-🎬 Studio Ghibli films inspire my creativity and help me unwind  
-🏐 *Haikyuu!!* is my favourite anime (I love volleyball too)   
-🌙 I'm a night owl  
