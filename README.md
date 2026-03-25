@@ -28,7 +28,7 @@
 - **Data, AI & Automation:** SQLAlchemy, BeautifulSoup, Scapy, Cohere
 
 ## 💡 Projects
-### 🛠️ In Development
+### 🚧 In Development
 - [**network-traffic-analyzer**](https://github.com/emiHuy/network-traffic-analyzer) — Real-time packet inspection tool for monitoring data flow.
 
 ### ✅ Completed
