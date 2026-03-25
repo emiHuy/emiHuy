@@ -16,12 +16,11 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### 🛠️ Developer Tools & Platforms
 - **IDEs**: VS Code, IntelliJ IDEA  
 - **Systems & Cloud**: Linux, Virtual Machines  
-- **Data Tools**: Postman
 
 ### 📚 Libraries & Frameworks
 - **GUI & Graphics:** JavaFX, PySide6, Pygame  
