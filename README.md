@@ -18,11 +18,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🛠️ Developer Tools & Platforms
+### 🛠️ Tools & Libraries
 - **IDEs**: VS Code, IntelliJ IDEA  
 - **Systems & Cloud**: Linux, Virtual Machines  
-
-### 📚 Libraries & Frameworks
 - **GUI & Graphics:** JavaFX, PySide6, Pygame  
 - **Web & Networking:** Requests, WebSockets, JWT, REST  
 - **Data, AI & Automation:** SQLAlchemy, BeautifulSoup, Scapy, Cohere
