@@ -18,7 +18,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🛠️ Tools & Libraries
+### 🛠️ Tools, Libraries & Platforms
 - **IDEs**: VS Code, IntelliJ IDEA  
 - **Systems & Cloud**: Linux, Virtual Machines  
 - **GUI & Graphics:** JavaFX, PySide6, Pygame  
