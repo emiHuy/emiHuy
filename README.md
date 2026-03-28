@@ -27,7 +27,7 @@
 
 ## 💡 Projects
 ### 🚧 In Development
-- [**network-traffic-analyzer**](https://github.com/emiHuy/network-traffic-analyzer) — Real-time packet inspection tool for monitoring data flow.
+- [**net-analyzer**](https://github.com/emiHuy/net-analyzer) — Real-time packet inspection tool for monitoring data flow.
 
 ### ✅ Completed
 - [**summarizer**](https://github.com/emiHuy/summarizer) — AI-powered tool to condense text, web pages, and files using LLMs.
