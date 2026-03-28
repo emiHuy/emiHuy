@@ -26,10 +26,8 @@
 - **Data, AI & Automation:** SQLAlchemy, BeautifulSoup, Scapy, Cohere
 
 ## 💡 Projects
-### 🚧 In Development
 - [**net-analyzer**](https://github.com/emiHuy/net-analyzer) — Real-time packet inspection tool for monitoring data flow.
 
-### ✅ Completed
 - [**summarizer**](https://github.com/emiHuy/summarizer) — AI-powered tool to condense text, web pages, and files using LLMs.
 
 - [**wishlist**](https://github.com/emiHuy/wishlist) — Full-stack wishlist manager with user authentication.
