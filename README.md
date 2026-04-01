@@ -26,7 +26,7 @@
 - **Data, AI & Automation:** SQLAlchemy, BeautifulSoup, Scapy, Cohere
 
 ## 💡 Projects
-- [**net-analyzer**](https://github.com/emiHuy/net-analyzer) — A live network packet capture and analysis tool — built with Scapy, FastAPI, and React.
+- [**net-analyzer**](https://github.com/emiHuy/net-analyzer) — A live network packet capture and analysis tool. Built with Scapy, FastAPI, and React.
 
 - [**summarizer**](https://github.com/emiHuy/summarizer) — AI-powered tool to condense text, web pages, and files using LLMs.
 
