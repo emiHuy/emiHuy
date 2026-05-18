@@ -11,7 +11,7 @@ Computer Science student specializing in cybersecurity and currently working as 
 ## 🛠️ Tech Stack
 **Languages:** Python, Java, JavaScript, C++, C  
 **Frontend:** React, HTML5, CSS3  
-**Backend:** FastAPI, Node.js, Express.js
+**Backend:** FastAPI, Node.js, Express.js  
 **Databases:** MongoDB, SQLite  
 **Tools & Environments:** Git, GitHub, Postman, Jira, Confluence, Linux, Windows CMD
 
