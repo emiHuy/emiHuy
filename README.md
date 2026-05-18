@@ -23,4 +23,4 @@ Computer Science student specializing in cybersecurity and currently working as 
 **Previous projects I built...**
 - [Portfolio](https://github.com/emiHuy/emiHuy.github.io) – A personal portfolio website built with HTML5, CSS3, and JavaScript.
 - [Wishlist Manager](https://github.com/emiHuy/wishlist) – A personal wishlist manager built with React, Node.js, Express.js, MongoDB, JWT, and bcrypt.js.
-- [Summarizer](https://github.com/emiHuy/summarizer) – A text processing tool that condenses information from pasted text, URLs, and files, built with Python, PySide6, and Cohere.
+- [Summarizer](https://github.com/emiHuy/summarizer) – A text processing tool that condenses information from text, URLs, and files, built with Python, PySide6, and Cohere.
