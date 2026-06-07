@@ -17,10 +17,8 @@ Computer Science student specializing in cybersecurity and currently working as 
 
 ## 🚀 Featured Projects
 
-**I'm currently working on...**   
-- [PacketLens](https://github.com/emiHuy/packet-lens) – A live network packet capture and monitoring tool built with Python, Scapy, FastAPI, and React.
+**I'm currently working on...**  
+none at the moment
 
 **Previous projects I built...**
-- [Portfolio](https://github.com/emiHuy/emiHuy.github.io) – A personal portfolio website built with HTML5, CSS3, and JavaScript.
-- [Wishlist Manager](https://github.com/emiHuy/wishlist) – A personal wishlist manager built with React, Node.js, Express.js, MongoDB, JWT, and bcrypt.js.
-- [Summarizer](https://github.com/emiHuy/summarizer) – A text processing tool that condenses information from text, URLs, and files, built with Python, PySide6, and Cohere.
+- [PacketLens](https://github.com/emiHuy/packet-lens) – A live network packet capture and monitoring tool built with Python, Scapy, FastAPI, and React.
