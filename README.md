@@ -8,9 +8,6 @@ Computer Science student specializing in cybersecurity and currently working as 
 [Email](mailto:emilyhuynh06@gmail.com) · 
 [Portfolio](https://emihuy.github.io/) 
 
-## 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=py,java,js,c,cpp,html,css,react,express,nodejs,fastapi,git,github,bitbucket,vscode,postman,linux,mongodb,sqlite"/>
-
 ## 🚀 Featured Projects
 
 **I'm currently working on...**  
@@ -18,3 +15,6 @@ Computer Science student specializing in cybersecurity and currently working as 
 
 **Previous projects I built...**
 - [PacketLens](https://github.com/emiHuy/packet-lens) – A live network packet capture and monitoring tool built with Python, Scapy, FastAPI, and React.
+
+## 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=py,java,js,c,cpp,html,css,react,express,nodejs,fastapi,git,github,bitbucket,vscode,postman,linux,mongodb,sqlite" width="80%"/>
