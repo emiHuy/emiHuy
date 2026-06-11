@@ -14,7 +14,7 @@ Computer Science student specializing in cybersecurity and currently working as 
 - [Rocky CLI Chatbot](https://github.com/emiHuy/rocky-cli) - A local, offline CLI assistant powered by Ollama with a distinct engineering personality.
 
 **Previous projects I built...**
-- [PacketLens](https://github.com/emiHuy/packet-lens) – A live network packet capture and monitoring tool built with Python, Scapy, FastAPI, and React.
+- [PacketLens](https://github.com/emiHuy/packet-lens) – A lightweight real-time packet capture and network monitoring tool for the local machine.
 
 ## 🛠️ Tech Stack
 <img src="https://skillicons.dev/icons?i=py,java,js,c,cpp,html,css,react,express,nodejs,fastapi,git,github,bitbucket,vscode,postman,linux,mongodb,sqlite"/>
