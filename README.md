@@ -11,7 +11,7 @@ Computer Science student specializing in cybersecurity and currently working as 
 ## 🚀 Featured Projects
 
 **I'm currently working on...**  
-- [Rocky CLI Chatbot](https://github.com/emiHuy/rocky-cli) - A local, offline CLI assistant powered by Ollama with a distinct engineering personality.
+... nothing at the moment.
 
 **Previous projects I built...**
 - [PacketLens](https://github.com/emiHuy/packet-lens) – A lightweight real-time packet capture and network monitoring tool for the local machine.
